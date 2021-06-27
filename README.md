@@ -13,4 +13,4 @@ All in all, this method is more for fun than for actual security. Modern compute
 # API
 Use the Coder class to encrypt/decrypt Strings by calling the encrypt(String text) or decrypt(String text) method.
 
-You can also use the traditional Caesar cipher by calling the rotate(String text, int key) method. Thus, ROT13 can be used calling rotate(String text, 13).
+You can also use the traditional Caesar cipher by calling the rotate(String text, int key) method. Thus, ROT13 can be used by calling rotate(String text, 13).
